@@ -10,6 +10,7 @@ Tietoja -sivulla löytyy Google Maps - kohta, joka on oikeasti kunnon Google Map
 Sivustolla on myös muutamia käyttämättömiä sivuja, joita minulla ei ollut aikaa laittaa sivustolle, lähinnä koska minua pyydettiin tehdä turnauksien sääntösivut viikkoa ennen tapahtumaa, ja muut ryhmäläiset eivät tehneet kunnon sääntöjä;
 
 http://nootlans2016.truudeli12.net/turnaukset/csgo/ <- Sain paranneltua, mutta halusin laittaa kaikkien turnauksien säännöt sivulle samaan aikaan.
+
 http://nootlans2016.truudeli12.net/turnaukset/overwatch/
 http://nootlans2016.truudeli12.net/turnaukset/lol/
 http://nootlans2016.truudeli12.net/turnaukset/hearthstone/
