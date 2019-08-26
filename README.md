@@ -14,9 +14,10 @@ http://nootlans2016.truudeli12.net/turnaukset/overwatch/
 http://nootlans2016.truudeli12.net/turnaukset/lol/
 http://nootlans2016.truudeli12.net/turnaukset/hearthstone/
 
-Ennen turnaussivujen tekoa minulla oli ylimäärästä aikaa, joten laitoin sivuston tunnistamaan Konami Coden (↑ ↑ ↓ ↓ ← → ← → B A), kannattaa kokeilla.
-
-
-
-
+Ennen turnaussivujen tekoa minulla oli ylimäärästä aikaa, joten laitoin sivuston tunnistamaan Konami Coden
+(↑ ↑ ↓ ↓ ← → ← → B A), kannattaa kokeilla.
+ 
+ 
+ 
+ 
 Sori oli pakko ;)
