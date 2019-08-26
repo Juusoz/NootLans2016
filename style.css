@@ -1,0 +1,478 @@
+body{
+	overflow: visible;
+	
+	background-image: url("http://nootlans2016.truudeli12.net/kuvat/background.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: center center;
+	
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	
+}
+
+/*--------Taustakuva-------*/
+.titlePhoto{
+	
+	position: relative;
+	
+	max-width:100%;
+    max-height:100%;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -1%;
+	
+	z-index: -1;
+
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+/*------------------------------------------------------------------------*/
+/*--------------------------------Main Div--------------------------------*/
+#main{
+	
+	background-color: #EEEEEE;
+	position: relative;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 0%;
+	height: auto;
+	min-height:650px;
+	
+    overflow: auto;
+	
+	
+	
+}
+
+.tekstialue{
+	
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	
+	font-family: Calibri, arial, sans-serif;
+	
+}
+/*------------------------------------------------------------------------------*/
+/*--------------------------------Navigation bar--------------------------------*/
+
+div.navbar{
+	
+	position: relative;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: -1%;
+	
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li.navbar{
+    float: left;
+}
+
+li.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.navbar a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #1061e5;
+}
+
+/*----------------------------------------------------------------------------*/
+/*--------------------------------Varaa Paikka--------------------------------*/
+.SaliVaraus{
+	
+	margin: auto;
+	width: 95%;
+	margin-top: 30px;
+	height: 550px;
+    overflow: auto;
+	background-color: #565656;
+	
+	-webkit-box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	
+	
+}
+
+	.PoytaSuora1{
+		
+		margin:auto;
+		width: 1228px;
+		white-space: nowrap;
+	}
+	.PoytaSuora2{
+		
+		margin:auto;
+		width: 1228px;
+		margin-top: 50px;
+		white-space: nowrap;
+		
+	}
+	.PoytaSuora3{
+		
+		margin:auto;
+		width: 1228px;
+		margin-top: 50px;
+		white-space: nowrap;
+		
+	}
+
+		.poytarivi1{
+			
+			display:inline-block;
+			
+		}
+
+		.poytarivi2{
+			
+			margin-top: 50px;
+			margin-left: 100px;
+			display:inline-block;
+			
+		}
+
+		.poytarivi3{
+			
+			
+			display:inline-block;
+			
+		}
+
+		.poytarivi4{
+			
+			display:inline-block;
+			
+		}
+
+		.poytarivi5{
+			
+			margin-left: 100px;
+			display:inline-block;
+			
+		}
+	
+/*----Tavallinen pöytä----*/	
+.poyta{
+	
+	width:50px;
+	height: 50px;
+	background-color: #34f430;
+	border: 1px solid #000000;
+	
+	-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+		
+}
+
+.poyta:hover{
+	
+	width:50px;
+	height: 50px;
+	background-color: #30e22d;
+	border: 1px solid #000000;
+	
+	-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	cursor: pointer;
+}
+
+/*----Valittu Pöytä----*/
+.poyta.valittu{
+	
+	width:50px;
+	height: 50px;
+	background-color: #1067f2;
+	border: 1px solid #000000;
+	
+	-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+		
+}
+
+.poyta.valittu:hover{
+	
+	width:50px;
+	height: 50px;
+	background-color: #0d5ddd;
+	border: 1px solid #000000;
+	
+	-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+		
+}
+/*----Varattu Pöytä----*/
+.poyta.varattu{
+	
+	width:50px;
+	height: 50px;
+	background-color: #ea2e2e;
+	border: 1px solid #000000;
+	
+	-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+		
+}
+
+.poyta:hover.varattu{
+	
+	width:50px;
+	height: 50px;
+	background-color: #d32a2a;
+	border: 1px solid #000000;
+	
+	-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+		
+}
+
+/*-----------------Hover Div------------------*/
+.paikkaTiedot{
+	width:auto;
+	height: 30px;
+	background-color: #EEEEEE;
+	position: absolute;
+	display:none;
+	border: 3px solid #1067f2;
+	-webkit-box-shadow: inset 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: inset 4px 4px 5px 0px rgba(0,0,0,0.75);
+	z-index: 100;
+	
+	/*-webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);*/
+}
+#hoverDivText{
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal; 
+}
+
+/*------------Buttonit------------*/
+.Button{
+	
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-right: 45px;
+	float: right;
+	
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+	
+}
+
+/*-------------------------------------------------------------------------------*/
+/*--------------------------------Tietojen lisäys--------------------------------*/
+.tietojenLisays{
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 60px;
+	
+	
+}
+
+/*----------txtBoxit------------*/
+.txtBox{
+	
+	float:left;
+	margin-top:10px;
+	margin-left: 20px;
+	width:150px;
+	
+}
+
+/*----------reCaptcha-----------*/
+.CaptchaAlign{
+	
+	margin-left: -130px;
+	margin-top: 10px;
+	width: 150px;
+	
+}
+
+/*-------Säännöt luettu------*/
+.CheckboxAlign{
+	
+	float: left;
+	margin-left: -130px;
+	margin-top: 10px;
+	width: 300px;
+	
+}
+
+/*------Varaa Paikka Button-----*/
+.Button.submit{
+	
+	float: left;
+	margin-left: -30px;
+	
+}
+
+.tietoText{
+	
+	float:left;
+	margin-top: 10px;
+	
+}
+
+.varaaTiedot{
+	
+	width: 500px;
+	height: 400px;
+	
+	background-color: #565656;
+	
+	-webkit-box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+
+}
+
+/*-------------------Error Messages--------------*/
+.errorMessage{
+
+	color: #DD0000;
+	font-weight: bold;
+	position: absolute;
+	margin-top: -3px;
+	
+}
+
+#valitsePoytaError{
+	
+	float:right;
+	margin-right: 20px;
+	margin-top: 12px;
+	position: static;
+	
+}
+
+#errorCheckbox{
+	width: 155px;
+	margin-top: -9px;
+}
+
+
+/*-------------Just easter egg passing throough-------------*/
+#Konami{
+	
+	position: fixed;
+	margin-left: 50%;
+	margin-right: 50%;
+	margin-top: -250px;
+	top: 50%;
+	left: -250px;
+	width: 500px;
+	
+	z-index: 100;
+	
+	pointer-events: none;
+	
+}
+
+.Center{
+	
+	position: relative;
+	margin-bottom: -50px;
+	margin-top: 0;
+	text-align: center;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/*------Game Logos-------*/
+div.GameLogo{
+	overflow: none;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #565656;
+	
+	-webkit-box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+	box-shadow: inset 0px 0px 19px 0px rgba(0,0,0,0.75);
+}
+
+img.GameLogo{
+	
+	position: relative;
+	display: block;
+	width: 250px;
+	text-align: center;
+	
+	max-width:100%;
+	max-height:100%;
+	
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+/*-------Sponsor Logos-------*/
+img.SponsorLogo{
+	position: relative;
+	display: block;
+	width: 250px;
+	text-align: center;
+	
+	max-width:100%;
+	max-height:100%;
+	
+	user-drag: none; 
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+/*-------Google Maps-------*/
+#map{
+	width: 100%;
+	height: 400px;
+	background-color: grey;
+}

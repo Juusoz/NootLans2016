@@ -1,0 +1,49 @@
+[04-Oct-2016 20:02:06 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/Varaa/index.php on line 187
+[04-Oct-2016 20:03:35 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/Varaa/index.php on line 187
+[04-Oct-2016 20:04:12 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/Varaa/index.php on line 187
+[04-Oct-2016 20:04:13 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/Varaa/index.php on line 187
+[04-Oct-2016 20:04:13 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/Varaa/index.php on line 187
+[04-Oct-2016 20:05:53 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:19:01 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:19:23 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:19:59 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:26:08 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:26:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:26:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 187
+[05-Oct-2016 07:27:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 175
+[05-Oct-2016 08:08:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 175
+[05-Oct-2016 08:08:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 175
+[05-Oct-2016 08:08:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 175
+[06-Oct-2016 10:57:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 179
+[28-Oct-2016 09:00:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/truud269/nootlans2016.truudeli12.net/varaa/index.php:14) in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 18
+[28-Oct-2016 09:00:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/truud269/nootlans2016.truudeli12.net/varaa/index.php:14) in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 19
+[28-Oct-2016 09:00:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/truud269/nootlans2016.truudeli12.net/varaa/index.php:14) in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 20
+[08-Nov-2016 20:40:01 UTC] PHP Notice:  Undefined index: Etunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:01 UTC] PHP Notice:  Undefined index: Sukunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:01 UTC] PHP Notice:  Undefined index: Etunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:01 UTC] PHP Notice:  Undefined index: Sukunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:05 UTC] PHP Notice:  Undefined index: Etunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:05 UTC] PHP Notice:  Undefined index: Sukunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:05 UTC] PHP Notice:  Undefined index: Etunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[08-Nov-2016 20:40:05 UTC] PHP Notice:  Undefined index: Sukunimi in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[11-Nov-2016 10:26:22 UTC] PHP Parse error:  syntax error, unexpected '$PoytaId' (T_VARIABLE), expecting ',' or ';' in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 195
+[14-Nov-2016 16:58:30 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:58:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:02 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:02 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:17 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:17 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:19 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:19 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:21 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:21 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:22 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:22 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:22 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:25 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:25 UTC] PHP Notice:  Undefined variable: yhteys in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
+[14-Nov-2016 16:59:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/truud269/nootlans2016.truudeli12.net/varaa/index.php on line 193
