@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$user = "truud269";
-$pass = "JMW65YAJAV";
-$dbname = "truud269_nootlans";
+$user = "user";
+$pass = "password";
+$dbname = "nootlans";
 
 try //yritetään ottaa yhteys
 { 
