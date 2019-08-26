@@ -12,6 +12,7 @@ Sivustolla on myös muutamia käyttämättömiä sivuja, joita minulla ei ollut 
 http://nootlans2016.truudeli12.net/turnaukset/csgo/
 
  ↑ Sain paranneltua, mutta halusin laittaa kaikkien turnauksien säännöt sivulle samaan aikaan.
+ 
 http://nootlans2016.truudeli12.net/turnaukset/overwatch/
 http://nootlans2016.truudeli12.net/turnaukset/lol/
 http://nootlans2016.truudeli12.net/turnaukset/hearthstone/
